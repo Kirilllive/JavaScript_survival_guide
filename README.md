@@ -1,12 +1,9 @@
-![Tuesday js visual novels engine](https://repository-images.githubusercontent.com/233020914/1b3240ff-9db8-4163-92ba-f86e81d10967)
+![Tuesday js visual novels engine](https://repository-images.githubusercontent.com/835946938/3a08b823-a7dc-480c-ace9-3747904f3970)
 
 
 # JavaScript survival guide
 
 An adventure game that teaches the basics of JavaScript programming. Game situations will demonstrate the use of JavaScript capabilities and how to apply them in practice.
-
-> Run in browser: https://kirilllive.github.io/tuesday-js/translate/en_tuesday_visual.html
-
 
 
 # Plot
